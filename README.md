@@ -1,4 +1,4 @@
-#Homerun Derby
+# Homerun Derby
 Prototype for my homerun derby game
 
 Planning on continuing later, perhaps also adding an actual baseball mode
