@@ -40,7 +40,7 @@ public class Ball : MonoBehaviour {
     {
         if (obj.gameObject.tag == "Bat Follower")
         {
-            Debug.Log("Hit yo ass lol");
+            Debug.Log("Hit");
             float BESR = 0.65f;
             Vector3 batV = obj.rigidbody.velocity;
             Debug.Log(batV);
